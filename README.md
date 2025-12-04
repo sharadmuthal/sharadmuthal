@@ -1,4 +1,4 @@
-<!-- 🕷️ SPIDERMAN SWINGING GIF -->
+<!-- 🕷️ SPIDERMAN SWINGING GIF animations-->
 <p align="center">
   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="300"/>
 </p>
@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=220&section=header&text=Hi%20🕷️,%20I'm%20Sharad&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 
 <h1 align="center">Hi 👋, I'm Sharad</h1>
-<h3 align="center">🎓 Computer Science Engineering Student | Beginner Developer</h3>
+<h3 align="center">🎓 Computer Science  Student | Beginner Developer</h3>
 
 <!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
@@ -63,7 +63,7 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/sharad_code">
+  <a href="https://github.com/sharadmuthal">
     <img src="https://img.shields.io/badge/GitHub-Profile-red?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
