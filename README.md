@@ -24,7 +24,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CSE Student  
+- 🎓 CS Student  
 - 💻 Beginner Programmer  
 - 📚 Learning **Python, C & Web Development**  
 - 🚀 Interested in **Software Development & Open Source**  
